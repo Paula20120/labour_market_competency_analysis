@@ -1,0 +1,61 @@
+﻿"Matched_Code","N_Offers_Requiring","N_Distinct_Competences","Example_Competences","Pct_Of_All_Offers"
+"K1_IZ_U05",2295,5016,"Agile methodologies | Stakeholder management | Digitalizacja danych i wdrażanie nowych narzędzi raportowych",24.7
+"K1_IZ_U16",2284,3472,"Data extraction, transformation, loading (ETL) | DataOps practices | Data governance and security compliance",24.6
+"K1_IZ_K02",2282,10586,"Znajomość obsługi komputera oraz podstawowych programów biurowych | Współpraca z działem zakupów oraz realizacji inwestycji | Customer service and client relations",24.5
+"K1_IZ_U02",1949,6168,"Bieżący kontakt z klientem | Rzetelność i uczciwość | Gracz zespołowy",21
+"K1_IZ_U07",1859,3959,"Analiza biznesowa oraz systemowa | Utrzymywanie kontaktów z Klientami w celu zbierania założeń i wymagań biznesowych i funkcjonalnych | Dokumentowanie wyników analiz systemowych",20
+"K1_IZ_W02",1029,1881,"Health and safety compliance (sanitary checks) | Dbanie o bezpieczeństwo i porządek w magazynie | Quality management",11.1
+"K1_IZ_W18",800,2089,"Tworzenie planów operacyjnych / Monitorowanie realizacji wskaźników | Coordination of deliverables versus the process calendar among Team Members and reporting to Clients | Operational Problem Solving",8.6
+"K1_IZ_W10",774,1207,"Udział we wdrożeniach systemów informatycznych | Analizowanie problemów z zakresu procesów biznesowych | Pisanie dokumentacji do wymagań biznesowych oraz systemowych, w tym modelowania i optymalizacji procesów biznesowych",8.3
+"K1_IZ_W13",644,1314,"Analiza i kontrola kosztów personalnych oraz budżetów | Opracowywanie modeli analitycznych i wsparcie procesów decyzyjnych | Analiza wskaźników kadrowych (fluktuacja, absencja, efektywność)",6.9
+"K1_IZ_W21",598,1723,"Technical Concepts, Architecture Documentation, and System Designs | Testing (Functional & Performance) | Ability to work independently and in a self-organised manner",6.4
+"K1_IZ_K06",553,1655,"Project management experience | Initiative and problem-solving in project challenges | Stakeholder and client management",5.9
+"K1_IZ_W11",553,1800,"Reporting/Data Analysis | Multitasking/Time Management | Monitorowanie i ocena postępów projektów oraz programów nieinwestycyjnych",5.9
+"K1_IZ_W06",379,1070,"ETL Process Implementation and Optimization | System Operation Support (Incident Handling, Performance Improvements) | Data Vault Modelling",4.1
+"K1_IZ_W14",371,791,"Udział we wdrażaniu nowych systemów księgowych | System usage (Obsługa systemu do obiegu dokumentów księgowych) | Client/Stakeholder Management (Training and Presentations)",4
+"K1_IZ_W20",346,402,"Tax Law Expertise (including Pillar 2) | Accounting Knowledge | Labor Law Knowledge",3.7
+"K1_IZ_U11",314,567,"Operations management | Documentation review/Justification review | Process Improvement",3.4
+"K1_IZ_W22",276,346,"Gotowość do szybkiego zdobycia wiedzy domenowej | Sumienność, odpowiedzialność oraz zaangażowanie w realizację powierzonych zadań | Proponowanie rozwiązań usprawniających i monitorowanie trendów rynkowych",3
+"K1_IZ_U08",274,698,"Projektowanie szkoleń e-learningowych i tworzenie storyboardów | Wiedza w temacie UX/UI | Market Research and Content Gathering",2.9
+"K1_IZ_K05",268,910,"Dobra organizacja pracy, samodzielność, odpowiedzialność, dokładność i sumienność | Umiejętność obsługi elektronarzędzi | Influencer Marketing and Relationship Building",2.9
+"K1_IZ_W09",263,494,"Współtworzenie i rozwój oddziału w Gdańsku | Samodzielność, inicjatywa i odpowiedzialność | Nastawienie na rozwój i realizację celów",2.8
+"K1_IZ_W27",187,791,"Process improvement and tools automation to bring efficiency into General Ledger operations | Maintaining service quality and high quality process documentation | Building excellent working relationships with Finance and Shared Service staff",2
+"K1_IZ_K04",184,235,"Communication Skills | Conflict resolution | Definiowanie scenariuszy komunikacji w oparciu o customer journey i mechanizmy personalizacji",2
+"K1_IZ_W28",158,258,"Bardzo dobra organizacja pracy | Organizational Skills | Stakeholder communication and management (for investors)",1.7
+"K1_IZ_W17",151,227,"System Implementation and Deployment | Znajomość rozwiązań low/no code | Szeroka wiedza z zakresu rozwiązań informatycznych oraz metodyk, standardów i narzędzi związanych z rozwojem oprogramowania",1.6
+"K1_IZ_K07",144,140,"Collaboration with architectural and DevOps teams | Stakeholder Management / Collaboration | Collaborate with a diverse team of HR and recruitment professionals",1.5
+"K1_IZ_W12",135,300,"Due Diligence / Business Analysis | Stakeholder Management / Business Partnership | Data Analysis / Business Intelligence",1.5
+"K1_IZ_W05",101,291,"Teamwork/Collaboration | Communication Skills | Ability to learn quickly",1.1
+"K1_IZ_U20",85,321,"Prowadzenie podstawowej dokumentacji stanowiskowej | Zarządzanie cenami transferowymi i zgodność podatkowa (Transfer Pricing) | Analiza funkcji, aktywów i ryzyk (FAR)",0.9
+"K1_IZ_W23",67,117,"Initiative | Financial planning and management | Financial analysis and risk mitigation (e.g., managing bad debts/expired receivables)",0.7
+"K1_IZ_W03",65,296,"Payroll process management (end-to-end) | Compliance with labor law and social insurance regulations | Vendor management and quality monitoring of services",0.7
+"K1_IZ_W08",55,144,"Data aggregation | Automatyczne pisanie testów jednostkowych/integracyjnych | Code review",0.6
+"K1_IZ_W07",52,214,"Basic commercial awareness | Product launch orchestration/management | Content optimization/management",0.6
+"K1_IZ_U21",51,236,"Księgowanie i ewidencja dokumentów finansowych | Sporządzanie sprawozdań finansowych i raportowanie | Obsługa podatków (CIT, VAT, PIT)",0.5
+"K1_IZ_W25",51,134,"Onboarding i szkolenia przewoźników i kurierów | Współpraca z zespołem CX w ramach interwencji i skarg | Samodzielne podejmowanie decyzji i skutecznego działania w warunkach stresowych",0.5
+"K1_IZ_U12",36,160,"Ocena ryzyka kredytowego Klientów Korporacyjnych | Analiza kredytowa | Praca w oparciu o bilans, rachunek zysków i strat",0.4
+"K1_IZ_U14",35,116,"Obsługa przesyłek, rozładunek, sortowanie i załadunek paczek na magazynie | Dokładność i dbałość o detale | Administrative Documentation Management",0.4
+"K1_IZ_U17",34,99,"Data Warehousing | Contextual data processing pipelines, embeddings, and vectorization | Vector database design and indexing (Qdrant, Weaviate, Pinecone)",0.4
+"K1_IZ_W24",22,42,"Budowanie relacji z osobami decyzyjnymi / Zarządzanie interesariuszami | Świadomość rynku i analiza konkurencji | Zarządzanie operacjami magazynu",0.2
+"K1_IZ_W16",20,34,"Headless/decoupled architecture, REST API, JSON, and GraphQL | Financial reconciliation and discrepancy resolution | System usage (eBOK forms)",0.2
+"K1_IZ_U06",19,49,"Modelowanie taryfikacyjne/konkurencyjności | Uczenie maszynowe | Analityczne myślenie",0.2
+"K1_IZ_U7",19,58,"Presentation and Teaser Preparation | Internal Communication and Collaboration | Negotiation",0.2
+"K1_IZ_W04",18,55,"Dyspozycyjność | Dokładność i rzetelność | Dyspozycyjność do pracy zmianowej",0.2
+"KEU code or competency_gap",12,10,"Use of AI tools | Chat GPT / AI Tools | AI Usage (Creative Optimization)",0.1
+"K1_IZ_U10",11,31,"Marketing i zarządzanie marką | Raportowanie i analiza wyników | Samodzielność i organizacja pracy",0.1
+"K1_IZ_U13",11,49,"Wdrażanie i rozwój systemów wynagrodzeń oraz struktury płacowe | Analiza danych płacowych i luka płacowa | Przygotowywanie analiz, raportów płacowych i benchmarków rynkowych",0.1
+"K1_IZ_U01",10,31,"KPI Setting and Performance Measurement (ROAS, CAC) | Data Analysis and Visualization (GA4, Looker Studio, Dashboard creation) | A/B Testing and Optimization",0.1
+"K1_IZ_U03",7,23,"Kontrola jakości konstrukcji stalowych i spawanych | Umiejętność czytania rysunku technicznego | Umiejętność wykonywania pomiarów warsztatowych",0.1
+"K1_IZ_U19",6,15,"Domain Knowledge (Pharmaceutical industry, API analysis, GMP standards) | Customer focus (Orientacja na klienta) | Accuracy (Dokładność)",0.1
+"K1_IZ_W26",6,19,"Quality control and inspection of received goods | Excellent work organization and efficiency | High personal culture and professional demeanor",0.1
+"K1_IZ_K03",5,17,"Przygotowywanie analiz i rekomendacji wspierających bieżące decyzje biznesowe | Reagowanie na odchylenia od planu i wdrażanie działań optymalizacyjnych | Analityczny Mindset / Wyciąganie wniosków liczbowych / Data literacy",0.1
+"K1_IZ_U5",3,5,"Process Improvement / Continuous Improvement | Adaptability and Willingness to Learn | Stakeholder Management",0
+"K1_IZ_W15",3,11,"Forecasting | Driving improvements in efficiency and quality | Track KPIs",0
+"K1_IZ_W2",3,6,"Dbanie o wysoką jakość realizowanych projektów | Znajomość procesów product design i współpracy z UX/UI | Waste management oversight",0
+"K1_IZ_U8",2,6,"Due Diligence Coordination / Information Management | Credit Monitoring and Reporting | Corporate Finance Domain Knowledge",0
+"K1_IZ_K01",1,1,"Obsługa operacyjna kredytów / Back office bankowy",0
+"K1_IZ_U04",1,2,"Obsługa pociągu roboczego / Kierownik pociągu | Dyspozycyjność i gotowość pracy",0
+"K1_IZ_U13, K1_IZ_W17",1,3,"Technical and business process expertise | Applying business processes knowledge to shape and align IS solution/services | Conducting advanced modelling activities for significant change programs",0
+"K1_IZ_U2",1,3,"Dobra organizacja pracy i dokładność | Współpraca z innymi działami firmy | Wsparcie zespołu księgowego",0
+"K1_IZ_W01",1,2,"Financial Impact Quantification | Critical Thinking and Data-Driven Approach",0
+"K1_IZ_W19",1,4,"Sales and Client Relationship Building | Social Media Management and Content Creation | Initiative and Innovation",0

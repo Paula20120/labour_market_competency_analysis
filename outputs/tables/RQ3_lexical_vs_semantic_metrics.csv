@@ -1,0 +1,10 @@
+﻿"Metric","Value"
+"TP",103
+"FP",20
+"FN",47419
+"TN",20130
+"Precision",0.8374
+"Recall",0.0022
+"F1",0.0043
+"McNemar_stat",47357.0354
+"McNemar_p",0

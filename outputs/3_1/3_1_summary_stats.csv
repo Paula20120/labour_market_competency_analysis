@@ -1,0 +1,13 @@
+Metric,Value
+Total KEU codes (programme level),56
+KEU codes with ≥1 PEU in mapping,56
+Unique PEU entries (per course),392
+PEU–KEU links (rows in mapping),595
+Courses (subjects) in mapping,75
+KEU Knowledge (W) codes,28
+KEU Skills (U) codes,21
+KEU Social Competences (K) codes,7
+Mean PEU links per KEU,10.6
+Max PEU links per KEU,44
+Min PEU links per KEU,1
+Mean KEU refs per course,5.8

@@ -1,0 +1,77 @@
+﻿"Final_Bucket","N_Offers","Pct_Standard","Dimension","Level","Label"
+"AI_ARTIFICIAL_INTELLIGENCE",502,42,"Labour market
+demand","Low","502"
+"AI_ARTIFICIAL_INTELLIGENCE",502,42,"IZ1 curriculum
+coverage","Medium","42%"
+"BIG_DATA_DATABASES",611,74.3,"Labour market
+demand","Low","611"
+"BIG_DATA_DATABASES",611,74.3,"IZ1 curriculum
+coverage","High","74%"
+"DATA_ANALYSIS_STATS",4333,88.2,"Labour market
+demand","High","4333"
+"DATA_ANALYSIS_STATS",4333,88.2,"IZ1 curriculum
+coverage","High","88%"
+"ERGONOMICS_WORKPLACE",166,87.3,"Labour market
+demand","Low","166"
+"ERGONOMICS_WORKPLACE",166,87.3,"IZ1 curriculum
+coverage","High","87%"
+"E_COMMERCE_MARKETING",1314,51.4,"Labour market
+demand","Medium","1314"
+"E_COMMERCE_MARKETING",1314,51.4,"IZ1 curriculum
+coverage","Medium","51%"
+"FINANCE_ACCOUNTING",3148,37,"Labour market
+demand","Medium","3148"
+"FINANCE_ACCOUNTING",3148,37,"IZ1 curriculum
+coverage","Medium","37%"
+"HR_RECRUITMENT",1063,38.4,"Labour market
+demand","Low","1063"
+"HR_RECRUITMENT",1063,38.4,"IZ1 curriculum
+coverage","Medium","38%"
+"INNOVATION_ENTREPRENEURSHIP",724,90.9,"Labour market
+demand","Low","724"
+"INNOVATION_ENTREPRENEURSHIP",724,90.9,"IZ1 curriculum
+coverage","High","91%"
+"IT_SERVICES_CLOUD_UX",1230,66.8,"Labour market
+demand","Low","1230"
+"IT_SERVICES_CLOUD_UX",1230,66.8,"IZ1 curriculum
+coverage","High","67%"
+"LEADERSHIP_DECISION_MAKING",2933,95.7,"Labour market
+demand","Medium","2933"
+"LEADERSHIP_DECISION_MAKING",2933,95.7,"IZ1 curriculum
+coverage","High","96%"
+"LEGAL_ECONOMY_ESG",1444,49.8,"Labour market
+demand","Medium","1444"
+"LEGAL_ECONOMY_ESG",1444,49.8,"IZ1 curriculum
+coverage","Medium","50%"
+"MANAGEMENT_INFORMATION_SYSTEMS",4531,55.4,"Labour market
+demand","High","4531"
+"MANAGEMENT_INFORMATION_SYSTEMS",4531,55.4,"IZ1 curriculum
+coverage","Medium","55%"
+"PROCESS_OPTIMIZATION",5694,87.9,"Labour market
+demand","High","5694"
+"PROCESS_OPTIMIZATION",5694,87.9,"IZ1 curriculum
+coverage","High","88%"
+"PRODUCTION_LOGISTICS",2053,24.9,"Labour market
+demand","Medium","2053"
+"PRODUCTION_LOGISTICS",2053,24.9,"IZ1 curriculum
+coverage","Low","25%"
+"PROGRAMMING_WEB",296,66.7,"Labour market
+demand","Low","296"
+"PROGRAMMING_WEB",296,66.7,"IZ1 curriculum
+coverage","High","67%"
+"PROJECT_MANAGEMENT",3581,95.3,"Labour market
+demand","High","3581"
+"PROJECT_MANAGEMENT",3581,95.3,"IZ1 curriculum
+coverage","High","95%"
+"QUALITY_MANAGEMENT",2860,69.8,"Labour market
+demand","Medium","2860"
+"QUALITY_MANAGEMENT",2860,69.8,"IZ1 curriculum
+coverage","High","70%"
+"SOFT_INTERPERSONAL",7384,86.4,"Labour market
+demand","High","7384"
+"SOFT_INTERPERSONAL",7384,86.4,"IZ1 curriculum
+coverage","High","86%"
+"STAKEHOLDER_CLIENT_RELATIONS",4741,85.8,"Labour market
+demand","High","4741"
+"STAKEHOLDER_CLIENT_RELATIONS",4741,85.8,"IZ1 curriculum
+coverage","High","86%"

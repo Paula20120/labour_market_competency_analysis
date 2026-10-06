@@ -1,0 +1,61 @@
+﻿"Seniority_level","Competence_Name","Final_Bucket","N_Offers"
+"Director / Executive","Stakeholder Management","STAKEHOLDER_CLIENT_RELATIONS",7
+"Director / Executive","Team Management","LEADERSHIP_DECISION_MAKING",6
+"Director / Executive","Process Optimization","PROCESS_OPTIMIZATION",5
+"Director / Executive","Communication Skills","SOFT_INTERPERSONAL",4
+"Director / Executive","Team Management / Leadership","LEADERSHIP_DECISION_MAKING",4
+"Director / Executive","Analytical Skills","DATA_ANALYSIS_STATS",3
+"Director / Executive","Budowanie kultury ryzyka i odpowiedzialność za ryzyko w Zespole","PROCESS_OPTIMIZATION",3
+"Director / Executive","Budowanie marki na lokalnym rynku","E_COMMERCE_MARKETING",3
+"Director / Executive","Budowanie relacji z klientami / Budowanie zaangażowanego Zespołu","SOFT_INTERPERSONAL",3
+"Director / Executive","Dbanie o najwyższą jakość obsługi / Standardy operacyjne","QUALITY_MANAGEMENT",3
+"Junior","Komunikatywność","SOFT_INTERPERSONAL",61
+"Junior","Teamwork","SOFT_INTERPERSONAL",50
+"Junior","Umiejętność pracy w zespole","SOFT_INTERPERSONAL",46
+"Junior","Communication Skills","SOFT_INTERPERSONAL",39
+"Junior","Teamwork/Collaboration","SOFT_INTERPERSONAL",34
+"Junior","Analytical skills","DATA_ANALYSIS_STATS",33
+"Junior","Communication skills","SOFT_INTERPERSONAL",29
+"Junior","Samodzielność","SOFT_INTERPERSONAL",26
+"Junior","Teamwork and Collaboration","SOFT_INTERPERSONAL",25
+"Junior","Willingness to learn","SOFT_INTERPERSONAL",24
+"Lead / Management","Project Management","PROJECT_MANAGEMENT",50
+"Lead / Management","Communication Skills","SOFT_INTERPERSONAL",42
+"Lead / Management","Stakeholder Management","STAKEHOLDER_CLIENT_RELATIONS",38
+"Lead / Management","Team Management","LEADERSHIP_DECISION_MAKING",34
+"Lead / Management","Team Management / Leadership","LEADERSHIP_DECISION_MAKING",30
+"Lead / Management","Zarządzanie zespołem","LEADERSHIP_DECISION_MAKING",23
+"Lead / Management","Cross-functional Collaboration","SOFT_INTERPERSONAL",22
+"Lead / Management","Collaboration / Teamwork","SOFT_INTERPERSONAL",19
+"Lead / Management","Process Optimization","PROCESS_OPTIMIZATION",19
+"Lead / Management","Client/Customer Management","STAKEHOLDER_CLIENT_RELATIONS",18
+"Mid","Komunikatywność","SOFT_INTERPERSONAL",133
+"Mid","Communication Skills","SOFT_INTERPERSONAL",101
+"Mid","Teamwork","SOFT_INTERPERSONAL",100
+"Mid","Umiejętność pracy w zespole","SOFT_INTERPERSONAL",94
+"Mid","Samodzielność","SOFT_INTERPERSONAL",91
+"Mid","Communication skills","SOFT_INTERPERSONAL",67
+"Mid","Stakeholder Management","STAKEHOLDER_CLIENT_RELATIONS",51
+"Mid","Teamwork and Collaboration","SOFT_INTERPERSONAL",50
+"Mid","Dobra organizacja pracy","PROCESS_OPTIMIZATION",34
+"Mid","Dobra organizacja pracy","SOFT_INTERPERSONAL",34
+"Not Specified","Umiejętność pracy w zespole","SOFT_INTERPERSONAL",45
+"Not Specified","Komunikatywność","SOFT_INTERPERSONAL",25
+"Not Specified","Doświadczenie w pracy na magazynie","PRODUCTION_LOGISTICS",16
+"Not Specified","Odpowiedzialność","SOFT_INTERPERSONAL",16
+"Not Specified","Teamwork","SOFT_INTERPERSONAL",16
+"Not Specified","Dobra organizacja pracy","PROCESS_OPTIMIZATION",15
+"Not Specified","Obsługa wózka widłowego","PRODUCTION_LOGISTICS",14
+"Not Specified","Dyspozycyjność","SOFT_INTERPERSONAL",11
+"Not Specified","Samodzielność","SOFT_INTERPERSONAL",11
+"Not Specified","Zaangażowanie","SOFT_INTERPERSONAL",11
+"Senior","Stakeholder Management","STAKEHOLDER_CLIENT_RELATIONS",47
+"Senior","Communication Skills","SOFT_INTERPERSONAL",40
+"Senior","Collaboration and Teamwork","SOFT_INTERPERSONAL",31
+"Senior","Analytical Skills","DATA_ANALYSIS_STATS",22
+"Senior","Samodzielność","SOFT_INTERPERSONAL",22
+"Senior","Teamwork","SOFT_INTERPERSONAL",21
+"Senior","Cross-functional Collaboration","SOFT_INTERPERSONAL",20
+"Senior","Komunikatywność","SOFT_INTERPERSONAL",20
+"Senior","Teamwork and Collaboration","SOFT_INTERPERSONAL",20
+"Senior","Umiejętność pracy w zespole","SOFT_INTERPERSONAL",20
